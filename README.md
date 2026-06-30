@@ -1,6 +1,6 @@
-# 📦 Supply Chain Analytics Dashboard | Power BI
+# Supply Chain Analytics Dashboard | Power BI
 
-## 📌 Project Overview
+## Project Overview
 
 This project presents an interactive **Supply Chain Analytics Dashboard** built using **Microsoft Power BI**. The objective is to analyze supply chain operations, product performance, customer demographics, supplier efficiency, manufacturing costs, and logistics performance to support data-driven business decisions.
 
@@ -8,7 +8,7 @@ The dashboard enables stakeholders to monitor operational KPIs, identify improve
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 Organizations managing supply chains often face challenges such as:
 
@@ -22,9 +22,9 @@ The goal of this project is to transform raw operational data into meaningful in
 
 ---
 
-## 📊 Dashboards
+## Dashboards
 
-### 1️⃣ Executive Overview
+### 1️ Executive Overview
 
 Provides a high-level summary of business performance.
 
@@ -46,7 +46,7 @@ Provides a high-level summary of business performance.
 
 ---
 
-### 2️⃣ Inventory & Operations
+### 2️ Inventory & Operations
 
 Focuses on inventory management and operational efficiency.
 
@@ -67,7 +67,7 @@ Focuses on inventory management and operational efficiency.
 
 ---
 
-### 3️⃣ Quality, Cost & Supplier Analysis
+### 3️ Quality, Cost & Supplier Analysis
 
 Evaluates manufacturing quality and supplier performance.
 
@@ -89,7 +89,7 @@ Evaluates manufacturing quality and supplier performance.
 
 ---
 
-### 4️⃣ Customer & Product Insights
+### 4️ Customer & Product Insights
 
 Analyzes customer behavior and product performance.
 
@@ -111,7 +111,7 @@ Analyzes customer behavior and product performance.
 
 ---
 
-## 📈 Key KPIs
+## Key KPIs
 
 - Total Revenue
 - Estimated Profit
@@ -128,7 +128,7 @@ Analyzes customer behavior and product performance.
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - Microsoft Power BI
 - Power Query
@@ -138,14 +138,14 @@ Analyzes customer behavior and product performance.
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - Source: Kaggle
 - Domain: Supply Chain & Logistics Analytics
 
 ---
 
-## 📌 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Data Transformation
@@ -160,7 +160,7 @@ Analyzes customer behavior and product performance.
 
 ---
 
-## 💡 Business Insights
+## Business Insights
 
 - Compared product performance across categories.
 - Evaluated supplier contribution and manufacturing costs.
@@ -172,7 +172,7 @@ Analyzes customer behavior and product performance.
 
 ---
 
-## 🚀 Project Outcome
+## Project Outcome
 
 The dashboard provides an end-to-end analytical solution that enables stakeholders to:
 
@@ -185,7 +185,7 @@ The dashboard provides an end-to-end analytical solution that enables stakeholde
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Tanushree Vijaykar**
 
